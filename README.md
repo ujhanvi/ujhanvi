@@ -29,12 +29,6 @@ This project develops a machine learning model to predict used car prices based 
 
 ---
 
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)  
-
----
-
 ## 📫 Connect with Me  
 [![LinkedIn](https://www.linkedin.com/in/jhanvi-upadhyay-15a467268/).
 [![GitHub](https://github.com/ujhanvi)  
