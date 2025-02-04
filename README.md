@@ -18,22 +18,26 @@
 ---
 
 ## 📌 Featured Projects  
-🔹 [**Project Name 1**](GitHub repo link) - Brief description of what it does.  
-🔹 [**Project Name 2**](GitHub repo link) - Brief description of what it does.  
-🔹 [**Project Name 3**](GitHub repo link) - Brief description of what it does.  
+🔹[**📊 Stock Data Analysis**](https://github.com/ujhanvi/Stock-Data-Extraction-and-Analysis)
+
+This project analyzes stock market data using Python to identify trends and insights. It includes data extraction, preprocessing, visualization, and statistical analysis. Key features include moving averages, volatility assessment, and predictive modeling. The analysis is performed using libraries like Pandas, NumPy, Matplotlib, and Scikit-learn.  
+
+🔹[**Model  Development**] (https://github.com/ujhanvi/Model-Development)
+
+This project develops a machine learning model to predict used car prices based on various features like mileage, age, brand, and fuel type. It involves data preprocessing, exploratory data analysis (EDA), feature engineering, and model training using regression techniques. Libraries like Pandas, NumPy, Scikit-learn, and Matplotlib are used for analysis and visualization.  
+
 
 ---
 
-## 📊 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)  
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)  
 
 ---
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-profile)  
-[![GitHub](https://img.shields.io/badge/-GitHub-gray?style=flat&logo=github&logoColor=white)](your-github-profile)  
+[![LinkedIn](https://www.linkedin.com/in/jhanvi-upadhyay-15a467268/).
+[![GitHub](https://github.com/ujhanvi)  
 
 ---
 
