@@ -22,7 +22,7 @@
 
 This project analyzes stock market data using Python to identify trends and insights. It includes data extraction, preprocessing, visualization, and statistical analysis. Key features include moving averages, volatility assessment, and predictive modeling. The analysis is performed using libraries like Pandas, NumPy, Matplotlib, and Scikit-learn.  
 
-🔹[**Model  Development**] (https://github.com/ujhanvi/Model-Development)
+🔹[**Model  Development**](https://github.com/ujhanvi/Model-Development)
 
 This project develops a machine learning model to predict used car prices based on various features like mileage, age, brand, and fuel type. It involves data preprocessing, exploratory data analysis (EDA), feature engineering, and model training using regression techniques. Libraries like Pandas, NumPy, Scikit-learn, and Matplotlib are used for analysis and visualization.  
 
